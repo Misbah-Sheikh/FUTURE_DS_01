@@ -1,7 +1,8 @@
 # FUTURE_DS_01
 Interactive Sales Dashboard built with Power BI to analyze e-commerce data. It shows KPIs (Sales, Profit, Quantity), category &amp; sub-category insights, payment method analysis, region &amp; state sales map, monthly sales trends, and top products for clear business performance tracking &amp; decision-making.
- 
- 
+
+<img width="1341" height="745" alt="Image" src="https://github.com/user-attachments/assets/ebb8e861-0057-4b3b-b68e-ee70ddd4c832" /> 
+
  🎯Project Objectives
 
 To analyze sales and revenue trends of an e-commerce business.
